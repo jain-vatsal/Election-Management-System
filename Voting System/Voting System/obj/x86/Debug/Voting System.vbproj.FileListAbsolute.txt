@@ -1,0 +1,180 @@
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\bin\Debug\Voting System.exe
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\bin\Debug\Voting System.pdb
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\bin\Debug\Voting System.xml
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting_System.addAdmin.resources
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting_System.admin_frm_aftr_strt.resources
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting_System.admin_frm_main.resources
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting_System.candidate_info.resources
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting_System.candReg.resources
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting_System.login_page.resources
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting_System.results.resources
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting_System.startElec.resources
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting_System.updateProfile.resources
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting_System.voterReg.resources
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting_System.voter_info.resources
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting_System.Form1.resources
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting_System.Resources.resources
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting System.vbproj.GenerateResource.Cache
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting System.exe
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting System.xml
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\obj\x86\Debug\Voting System.pdb
+C:\Users\nikhitha\OneDrive - Indian Institute of Technology Guwahati\Documents\342_assign\Voting System\Voting System\bin\Debug\Guna.UI.dll
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting System.exe
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting System.xml
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting System.pdb
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\bin\Debug\Voting System.exe
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\bin\Debug\Voting System.pdb
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\bin\Debug\Voting System.xml
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting System.vbprojResolveAssemblyReference.cache
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting_System.addAdmin.resources
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting_System.admin_frm_aftr_strt.resources
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting_System.candidate_info.resources
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting_System.candReg.resources
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting_System.login_page.resources
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting_System.results.resources
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting_System.startElec.resources
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting_System.updateProfile.resources
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting_System.voterReg.resources
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting_System.voter_info.resources
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting_System.Resources.resources
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting System.vbproj.GenerateResource.Cache
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting_System.admin_main.resources
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting_System.voter_dashboard.resources
+C:\Users\thota\OneDrive\Documents\Visual Studio 2010\Projects\Voting System\Voting System\obj\x86\Debug\Voting_System.vp.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\bin\Debug\Voting System.exe
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\bin\Debug\Voting System.pdb
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\bin\Debug\Voting System.xml
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.addElection.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.adminadder.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.admin_frm_aftr_strt.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.admin_main.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.candidate_info.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.candReg.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.currentelection.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.login_page.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.results.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.startElec.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.updateProfile.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.voterReg.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.voter_info.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.Resources.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.voter_dashboard.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting_System.vp.resources
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting System.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting System.exe
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting System.xml
+C:\Users\User\Downloads\Voting System (2)\Voting System\Voting System\obj\x86\Debug\Voting System.pdb
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\bin\Debug\Voting System.exe
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\bin\Debug\Voting System.pdb
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\bin\Debug\Voting System.xml
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.addElection.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.adminadder.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.admin_frm_aftr_strt.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.admin_main.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.candidate_info.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.candReg.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.currentelection.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.login_page.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.results.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.startElec.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.updateProfile.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.voterReg.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.voter_info.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.Resources.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.voter_dashboard.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.vp.resources
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting System.vbproj.GenerateResource.Cache
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting System.exe
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting System.xml
+E:\SoftwareEngineering\2_GroupProject\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting System.pdb
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\bin\Debug\Voting System.exe
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\bin\Debug\Voting System.pdb
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\bin\Debug\Voting System.xml
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.addElection.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.adminadder.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.admin_frm_aftr_strt.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.admin_main.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.candidate_info.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.candReg.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.currentelection.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.login_page.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.results.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.startElec.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.updateProfile.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.voterReg.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.voter_info.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.Resources.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.ElectionResultsForm.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.voter_dashboard.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.vp.resources
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting System.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting System.exe
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting System.xml
+C:\Users\User\Downloads\Voting System\Voting System_vd\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting System.pdb
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting System.exe
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting System.xml
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting System.pdb
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\bin\Debug\Voting System.exe
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\bin\Debug\Voting System.pdb
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\bin\Debug\Voting System.xml
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.addElection.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.adminadder.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.admin_frm_aftr_strt.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.admin_main.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.candidate_info.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.candReg.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.currentelection.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.login_page.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.results.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.startElec.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.updateProfile.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.voterReg.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.voter_info.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.Resources.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.ElectionResultsForm.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.voter_dashboard.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting_System.vp.resources
+C:\Users\vhlsr\OneDrive\Desktop\Voting System\Voting System_vd\Voting System\Voting System\obj\x86\Debug\Voting System.vbproj.GenerateResource.Cache
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\obj\x86\Debug\Voting System.exe
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\obj\x86\Debug\Voting System.xml
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\obj\x86\Debug\Voting System.pdb
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\bin\Debug\Voting System.exe
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\bin\Debug\Voting System.pdb
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\bin\Debug\Voting System.xml
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\obj\x86\Debug\Voting_System.addElection.resources
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\obj\x86\Debug\Voting_System.adminadder.resources
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\obj\x86\Debug\Voting_System.admin_main.resources
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\obj\x86\Debug\Voting_System.candReg.resources
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\obj\x86\Debug\Voting_System.currentelection.resources
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\obj\x86\Debug\Voting_System.login_page.resources
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\obj\x86\Debug\Voting_System.updateProfile.resources
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\obj\x86\Debug\Voting_System.voterReg.resources
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\obj\x86\Debug\Voting_System.Resources.resources
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\obj\x86\Debug\Voting_System.ElectionResultsForm.resources
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\obj\x86\Debug\Voting_System.voter_dashboard.resources
+C:\Users\nikhitha\Downloads\Voting System1_updated\Voting System\Voting System\obj\x86\Debug\Voting System.vbproj.GenerateResource.Cache
+C:\Users\nikhitha\Downloads\Voting System (3)\Voting System\Voting System\Voting System\obj\x86\Debug\Voting System.exe
+C:\Users\nikhitha\Downloads\Voting System (3)\Voting System\Voting System\Voting System\obj\x86\Debug\Voting System.xml
+C:\Users\nikhitha\Downloads\Voting System (3)\Voting System\Voting System\Voting System\obj\x86\Debug\Voting System.pdb
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\bin\Debug\Voting System.exe
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\bin\Debug\Voting System.pdb
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\bin\Debug\Voting System.xml
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting_System.addElection.resources
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting_System.adminadder.resources
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting_System.admin_main.resources
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting_System.ballots.resources
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting_System.candReg.resources
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting_System.currentelection.resources
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting_System.login_page.resources
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting_System.pastElections.resources
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting_System.upcomingelections.resources
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting_System.updateProfile.resources
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting_System.viewCandidates.resources
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting_System.voterReg.resources
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting_System.Resources.resources
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting_System.ElectionResultsForm.resources
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting_System.voter_dashboard.resources
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting System.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting System.exe
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting System.xml
+C:\Users\User\Desktop\Voting System\Voting System\Voting System\obj\x86\Debug\Voting System.pdb
